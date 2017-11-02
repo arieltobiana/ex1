@@ -11,7 +11,7 @@
 - Tanzania
 - South Sudan 
 
-
+![Image of Lion](images/lion.jpg)
 
 English | עברית
 -------|--------
